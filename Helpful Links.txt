@@ -1,0 +1,5 @@
+https://blog.shivamtrivedi.com/how-to-add-email-functionality-to-contact-forms-in-html5up/
+
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository
+https://console.gitfront.io/
